@@ -44,9 +44,9 @@ The classification report for the Logistic Regression model is as follows:
            0       0.93      0.79      0.86      4961
            1       0.52      0.79      0.63      1429
 
-    accuracy                           0.79      6390
-   macro avg       0.73      0.79      0.74      6390
-weighted avg       0.84      0.79      0.80      6390
+    accuracy                               0.79      6390
+    macro avg          0.73      0.79      0.74      6390
+    weighted avg       0.84      0.79      0.80      6390
 
 This classification report provides insights into the model's performance, showing its precision, recall, and F1-score for each class (0 and 1). These metrics help assess the model's ability to distinguish between approved (class 0) and denied (class 1) loan applications.
 
