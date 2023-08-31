@@ -1,4 +1,4 @@
-# Loan-approval-Prediction-using-logistic-regression
+# Loan approval prediction using logistic regression
 
 This repository contains a machine learning project that focuses on solving a binary classification problem - predicting loan approvals. The project utilizes a Logistic Regression model to make these predictions. This README file provides an overview of the project, its structure, and key steps in the analysis.
 
